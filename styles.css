@@ -67,12 +67,16 @@ p.text_introduction2{
 	
 }
 
-.text_introduction3{
+.text_introduction3, .text_introduction3 a{
 	font-family:comic sans ms;
 	font-size:15pt;
 	font-weight:bold;
 	color:#232323;
 	padding-bottom:20px;
+}
+
+.text_introduction3 a{
+	color: #003366;
 }
 
 p.text_content{
