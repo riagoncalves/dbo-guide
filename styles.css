@@ -215,14 +215,16 @@ b.note{
 	
 }
 .set_cc55_2{
-	width:100px;
-	
+	width:100px;	
+}
+
+.set_cc55_2{
+	white-space: nowrap;
 }
 
 .set_cc90{
 	width:800px;
-	font-size:11.6pt;
-	
+	font-size:11.6pt;	
 }
 
 .set_cc110{
