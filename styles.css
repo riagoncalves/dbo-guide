@@ -63,7 +63,8 @@ p.text_introduction{
 
 p.text_introduction2{
 	position:relative;
-	left:100px;
+	width: 80%;
+	margin: 0 auto;
 	font-family:comic sans ms;
 	font-size:15pt;
 	font-weight:bold;
