@@ -56,7 +56,6 @@ p.text_introduction {
 	font-family: comic sans ms;
 	font-size: 15pt;
 	font-weight: bold;
-	padding-top: 35px;
 	color: #232323;
 	padding-bottom: 20px;
 }
@@ -68,7 +67,6 @@ p.text_introduction2 {
 	font-family: comic sans ms;
 	font-size: 15pt;
 	font-weight: bold;
-	padding-top: 55px;
 	color: #232323;
 	padding-bottom: 25px;
 	
@@ -138,16 +136,13 @@ b.text_content3 {
 
 #table55 {
 	position: relative;
-	top: 30px;
 	width: 80%;
-	height: 200px;
 	margin: 0 auto;
 }
 
 #table55_2 {
 	position: relative;
 	width: 80%;
-	height: 200px;
 	margin: 0 auto;
 }
 
