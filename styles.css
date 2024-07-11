@@ -36,19 +36,21 @@ img.logo {
 }
 
 #box_title {
+	display: flex;
 	width: 80%;
 	height: 50px;
-	background: linear-gradient(#473896 25px, #28117a 25px);
 	margin: 50px auto;
-	border: solid 3.5px #7c67cc;
+	justify-content: center;
+	align-items: center;
+	background: linear-gradient(#F97316 25px, #EA580C 25px);
+	border: solid 3.5px #FB923C;
 }
 
 p.title {
-	font-family: comic sans ms;
+	font-family: sans-serif;
 	font-size: 17pt;
 	font-weight: bold;
 	color: #f5f5f5;
-	padding-top: 8.5px;
 	text-align: center;
 }
 
@@ -171,12 +173,12 @@ table {
 
 th {
 
-	background: linear-gradient(#473896 15px, #28117a 8px);
-	border: solid 2px #7c67cc;
-	font-family: comic sans ms;
+	background: linear-gradient(#F97316 15px, #EA580C 8px);
+	border: solid 2px #FB923C;
+	font-family: sans-serif;
 	color: #f5f5f5;
 	font-weight: bold;
-	padding: 5px;
+	padding: 8px;
 }
 
 td {
