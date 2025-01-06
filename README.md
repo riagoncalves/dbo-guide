@@ -1,6 +1,6 @@
-![logo](_images/website/logo.png)
-
 # Dragon Ball Online Guide
+
+![logo](_images/website/logo.png)
 
 > Your ultimate open-source guide for **Dragon Ball Online**. Contribute, explore, and master the game with the community!
 

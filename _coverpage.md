@@ -1,6 +1,10 @@
 ![logo](_images/website/logo.png)
 
-# **Dragon Ball Online Guide**
+<h1>
+  <b>
+    Dragon Ball Online Guide
+  </b>
+</h1>
 
 > Your ultimate open-source guide for **Dragon Ball Online**  
 > Contribute, explore, and master the game together!
