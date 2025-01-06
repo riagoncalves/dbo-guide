@@ -1,0 +1,5 @@
+.markdown-section iframe {
+  min-width: auto !important;
+  width: 560px;
+  height: 315px;
+}

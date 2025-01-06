@@ -1,4 +1,5 @@
 # Rewards by Floor
+---
 
 | Floor | Rewards |
 | - | - |
