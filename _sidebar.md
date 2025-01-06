@@ -2,6 +2,7 @@
 
   - Getting Started
     - [Races & Classes](getting-started/races-and-classes.md)
+    - [Time Leap Quests (TLQs)](getting-started/tlqs.md)
 
   - CCBD
     - [Level 55 Items](ccbd/items-lvl55.md)
