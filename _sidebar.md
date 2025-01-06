@@ -4,6 +4,9 @@
     - [Races & Classes](getting-started/races-and-classes.md)
     - [Time Leap Quests (TLQs)](getting-started/tlqs.md)
 
+  - Events
+    - [BOSS](events/boss.md)
+
   - CCBD
     - [Level 55 Items](ccbd/items-lvl55.md)
     - [Level 60 Items](ccbd/items-lvl60.md)
