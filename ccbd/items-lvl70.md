@@ -1,4 +1,5 @@
 # Level 70 Items
+---
 
 ## Armor Set CC 110F
 
@@ -50,18 +51,18 @@
 ### Class Combos
 | Class | Weapon | Sub Weapon | Bonus |
 | - | - | - | - |
-| ![](../_images/ficon.png) |![](../_images/pgloves120.png) | ![](../_images/stick120.png) | Increases LP by **1360** |
-| ![](../_images/swicon.png) |![](../_images/pgloves120.png) | ![](../_images/sword120.png) | Increases LP by **1360** |
-| ![](../_images/ticon.png) |![](../_images/mgloves120.png) | ![](../_images/crosier120.png) | Increases LP by **1360** |
-| ![](../_images/cicon.png) |![](../_images/mgloves120.png) | ![](../_images/fan120.png) | Increases LP by **1360** |
-| ![](../_images/dwicon.png) |![](../_images/pgloves120.png) | ![](../_images/claws120.png) | Increases LP by **1360** |
-| ![](../_images/skicon.png) |![](../_images/mgloves120.png) | ![](../_images/axe120.png) | Increases LP by **1360** |
-| ![](../_images/dpicon.png) |![](../_images/staff120.png) | ![](../_images/scroll120.png) | Increases LP by **1360** |
-| ![](../_images/ppicon.png) |![](../_images/staff120.png) | ![](../_images/gem120.png) | Increases LP by **1360** |
-| ![](../_images/uicon.png) |![](../_images/pgloves120.png) | ![](../_images/trumpet120.png) | Increases LP by **1360** |
-| ![](../_images/gicon.png) |![](../_images/pgloves120.png) | ![](../_images/chef120.png) | Increases LP by **1360** |
-| ![](../_images/picon.png) |![](../_images/mgloves120.png) | ![](../_images/drum120.png) | Increases LP by **1360** |
-| ![](../_images/kicon.png) |![](../_images/mgloves120.png) | ![](../_images/mask120.png) | Increases LP by **1360** |
+| ![](../_images/classes/fighter.png) |![](../_images/pgloves120.png) | ![](../_images/stick120.png) | Increases LP by **1360** |
+| ![](../_images/classes/swordsman.png) |![](../_images/pgloves120.png) | ![](../_images/sword120.png) | Increases LP by **1360** |
+| ![](../_images/classes/turtle.png) |![](../_images/mgloves120.png) | ![](../_images/crosier120.png) | Increases LP by **1360** |
+| ![](../_images/classes/crane.png) |![](../_images/mgloves120.png) | ![](../_images/fan120.png) | Increases LP by **1360** |
+| ![](../_images/classes/dark-warrior.png) |![](../_images/pgloves120.png) | ![](../_images/claws120.png) | Increases LP by **1360** |
+| ![](../_images/classes/shadow-knight.png) |![](../_images/mgloves120.png) | ![](../_images/axe120.png) | Increases LP by **1360** |
+| ![](../_images/classes/dende.png) |![](../_images/staff120.png) | ![](../_images/scroll120.png) | Increases LP by **1360** |
+| ![](../_images/classes/poko.png) |![](../_images/staff120.png) | ![](../_images/gem120.png) | Increases LP by **1360** |
+| ![](../_images/classes/ultimate.png) |![](../_images/pgloves120.png) | ![](../_images/trumpet120.png) | Increases LP by **1360** |
+| ![](../_images/classes/grand-chef.png) |![](../_images/pgloves120.png) | ![](../_images/chef120.png) | Increases LP by **1360** |
+| ![](../_images/classes/plasma.png) |![](../_images/mgloves120.png) | ![](../_images/drum120.png) | Increases LP by **1360** |
+| ![](../_images/classes/karma.png) |![](../_images/mgloves120.png) | ![](../_images/mask120.png) | Increases LP by **1360** |
 
 ### Maximum Stats
 | Weapons | Max different stats -- (more useful) |
@@ -111,18 +112,18 @@
 ### Class Combos
 | Class | Weapon | Sub Weapon | Bonus |
 | - | - | - | - |
-| ![](../_images/ficon.png) |![](../_images/gloves150.png) | ![](../_images/stick150.png) | Increases LP by **1420** |
-| ![](../_images/swicon.png) |![](../_images/gloves150.png) | ![](../_images/sword150.png) | Increases LP by **1420** |
-| ![](../_images/ticon.png) |![](../_images/gloves150.png) | ![](../_images/crosier150.png) | Increases LP by **1420** |
-| ![](../_images/cicon.png) |![](../_images/gloves150.png) | ![](../_images/fan150.png) | Increases LP by **1420** |
-| ![](../_images/dwicon.png) |![](../_images/gloves150.png) | ![](../_images/claws150.png) | Increases LP by **1420** |
-| ![](../_images/skicon.png) |![](../_images/gloves150.png) | ![](../_images/axe150.png) | Increases LP by **1420** |
-| ![](../_images/dpicon.png) |![](../_images/staff150.png) | ![](../_images/scroll150.png) | Increases LP by **1420** |
-| ![](../_images/ppicon.png) |![](../_images/staff150.png) | ![](../_images/gem150.png) | Increases LP by **1420** |
-| ![](../_images/uicon.png) |![](../_images/gloves150.png) | ![](../_images/trumpet150.png) | Increases LP by **1420** |
-| ![](../_images/gicon.png) |![](../_images/gloves150.png) | ![](../_images/chef150.png) | Increases LP by **1420** |
-| ![](../_images/picon.png) |![](../_images/gloves150.png) | ![](../_images/drum150.png) | Increases LP by **1420** |
-| ![](../_images/kicon.png) |![](../_images/gloves150.png) | ![](../_images/mask150.png) | Increases LP by **1420** |
+| ![](../_images/classes/fighter.png) |![](../_images/gloves150.png) | ![](../_images/stick150.png) | Increases LP by **1420** |
+| ![](../_images/classes/swordsman.png) |![](../_images/gloves150.png) | ![](../_images/sword150.png) | Increases LP by **1420** |
+| ![](../_images/classes/turtle.png) |![](../_images/gloves150.png) | ![](../_images/crosier150.png) | Increases LP by **1420** |
+| ![](../_images/classes/crane.png) |![](../_images/gloves150.png) | ![](../_images/fan150.png) | Increases LP by **1420** |
+| ![](../_images/classes/dark-warrior.png) |![](../_images/gloves150.png) | ![](../_images/claws150.png) | Increases LP by **1420** |
+| ![](../_images/classes/shadow-knight.png) |![](../_images/gloves150.png) | ![](../_images/axe150.png) | Increases LP by **1420** |
+| ![](../_images/classes/dende.png) |![](../_images/staff150.png) | ![](../_images/scroll150.png) | Increases LP by **1420** |
+| ![](../_images/classes/poko.png) |![](../_images/staff150.png) | ![](../_images/gem150.png) | Increases LP by **1420** |
+| ![](../_images/classes/ultimate.png) |![](../_images/gloves150.png) | ![](../_images/trumpet150.png) | Increases LP by **1420** |
+| ![](../_images/classes/grand-chef.png) |![](../_images/gloves150.png) | ![](../_images/chef150.png) | Increases LP by **1420** |
+| ![](../_images/classes/plasma.png) |![](../_images/gloves150.png) | ![](../_images/drum150.png) | Increases LP by **1420** |
+| ![](../_images/classes/karma.png) |![](../_images/gloves150.png) | ![](../_images/mask150.png) | Increases LP by **1420** |
 
 ### Maximum Stats
 | Weapons | Max different stats -- (more useful) |

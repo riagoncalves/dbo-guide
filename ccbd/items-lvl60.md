@@ -1,4 +1,5 @@
 # Level 60 Items
+---
 
 ## Armor Set CC 90F
 
@@ -78,18 +79,18 @@
 ### Class Combos
 | Class | Weapon | Sub Weapon |
 | - | - | - |
-| ![](../_images/ficon.png) |![](../_images/pgloves100.png) | ![](../_images/stick100.png) |
-| ![](../_images/swicon.png) |![](../_images/pgloves100.png) | ![](../_images/sword100.png) |
-| ![](../_images/ticon.png) |![](../_images/mgloves100.png) | ![](../_images/crosier100.png) |
-| ![](../_images/cicon.png) |![](../_images/mgloves100.png) | ![](../_images/fan100.png) |
-| ![](../_images/dwicon.png) |![](../_images/pgloves100.png) | ![](../_images/claws100.png) |
-| ![](../_images/skicon.png) |![](../_images/mgloves100.png) | ![](../_images/axe100.png) |
-| ![](../_images/dpicon.png) |![](../_images/staff100.png) | ![](../_images/scroll100.png) |
-| ![](../_images/ppicon.png) |![](../_images/staff100.png) | ![](../_images/gem100.png) |
-| ![](../_images/uicon.png) |![](../_images/pgloves100.png) | ![](../_images/trumpet100.png) |
-| ![](../_images/gicon.png) |![](../_images/pgloves100.png) | ![](../_images/chef100.png) |
-| ![](../_images/picon.png) |![](../_images/mgloves100.png) | ![](../_images/drum100.png) |
-| ![](../_images/kicon.png) |![](../_images/mgloves100.png) | ![](../_images/mask100.png) |
+| ![](../_images/classes/fighter.png) |![](../_images/pgloves100.png) | ![](../_images/stick100.png) |
+| ![](../_images/classes/swordsman.png) |![](../_images/pgloves100.png) | ![](../_images/sword100.png) |
+| ![](../_images/classes/turtle.png) |![](../_images/mgloves100.png) | ![](../_images/crosier100.png) |
+| ![](../_images/classes/crane.png) |![](../_images/mgloves100.png) | ![](../_images/fan100.png) |
+| ![](../_images/classes/dark-warrior.png) |![](../_images/pgloves100.png) | ![](../_images/claws100.png) |
+| ![](../_images/classes/shadow-knight.png) |![](../_images/mgloves100.png) | ![](../_images/axe100.png) |
+| ![](../_images/classes/dende.png) |![](../_images/staff100.png) | ![](../_images/scroll100.png) |
+| ![](../_images/classes/poko.png) |![](../_images/staff100.png) | ![](../_images/gem100.png) |
+| ![](../_images/classes/ultimate.png) |![](../_images/pgloves100.png) | ![](../_images/trumpet100.png) |
+| ![](../_images/classes/grand-chef.png) |![](../_images/pgloves100.png) | ![](../_images/chef100.png) |
+| ![](../_images/classes/plasma.png) |![](../_images/mgloves100.png) | ![](../_images/drum100.png) |
+| ![](../_images/classes/karma.png) |![](../_images/mgloves100.png) | ![](../_images/mask100.png) |
 
 ### Maximum Stats
 | Weapons | Max different stats -- (more useful) |
