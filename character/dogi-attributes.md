@@ -38,7 +38,7 @@
 | Dexterity | 8 | 10 | 12 |
 | Physical Critical Rate | 3 | 4 | 5 |
 | Energy Critical Rate | 3 | 4 | 5 |
-| Dodge Rate | 32 | 40 | 50 |
+| Hit Rate | 67 | 81 | 101 |
 | Elegant Attack Attribute | 2% | 3% | 4% |
 | Elegant Defense Attribute | 2% | 3% | 4% |
 
@@ -48,6 +48,6 @@
 | Energy Critical Damage | 8% | 10% | 12% |
 | Recover EP | 6% | 8% | 10% |
 | Strength | 8 | 10 | 12 |
-| Physical Attack | 16 | 20 | 25 |
+| Energy Attack | 16 | 20 | 25 |
 | Honest Attack Attribute | 2% | 3% | 4% |
 | Honest Defense Attribute | 2% | 3% | 4% |
