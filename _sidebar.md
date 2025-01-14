@@ -21,3 +21,10 @@
 
   - BIDs
     - [BID 4 - Kraken](bids/bid4.md)
+
+  ---
+
+  - Community
+    - Dragon Ball Online Galaxy
+      - Events
+        - [BOSS](community/dbogx/events/boss.md)

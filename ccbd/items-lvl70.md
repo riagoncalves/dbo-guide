@@ -75,21 +75,28 @@
 ### Crafting Cost
 | Armor Set | Recipe Cost | Crafting Cost |
 | - | - | - |
-| ![](../_images/jarmor150.png) | **x50** ![](../_images/ccoins.png) | **x125** ![](../_images/ccoins.png) **x7** ![](../_images/itemcc90.png) **x7** ![](../_images/itemcc110.png) |
-| ![](../_images/parmor150.png) | **x50** ![](../_images/ccoins.png) | **x125** ![](../_images/ccoins.png) **x7** ![](../_images/itemcc90.png) **x7** ![](../_images/itemcc110.png) |
-| ![](../_images/sarmor150.png) | **x50** ![](../_images/ccoins.png) | **x125** ![](../_images/ccoins.png) **x7** ![](../_images/itemcc90.png) **x7** ![](../_images/itemcc110.png) |
+| ![](../_images/jarmor150.png) | **x50** ![](../_images/ccoins.png) | **x125** ![](../_images/ccoins.png) **x7** ![](../_images/itemcc110.png) **x10** ![](../_images/itemcc130.png) |
+| ![](../_images/parmor150.png) | **x50** ![](../_images/ccoins.png) | **x125** ![](../_images/ccoins.png) **x7** ![](../_images/itemcc110.png) **x10** ![](../_images/itemcc130.png) |
+| ![](../_images/sarmor150.png) | **x50** ![](../_images/ccoins.png) | **x125** ![](../_images/ccoins.png) **x7** ![](../_images/itemcc110.png) **x10** ![](../_images/itemcc130.png) |
+
+### Defense
+| Armor Set | Human | Namek | Majin | 
+| - | - | - | - |
+| ![](../_images/jarmor150.png) | 867/145 | 700/557 | 1064/145 |
+| ![](../_images/parmor150.png) | 867/145 | 700/557 | 1064/145 |
+| ![](../_images/sarmor150.png) | 743/124 | 600/478 | 912/124 |
 
 ### Bonus
 | Armor Set | 2 pieces | 3 pieces |
 | - | - | - |
-| ![](../_images/jarmor150.png) ![](../_images/parmor150.png) ![](../_images/sarmor150.png) | Increases EP by **1008** | Reduce skill cooldown time by **17** |
+| ![](../_images/jarmor150.png) ![](../_images/parmor150.png) ![](../_images/sarmor150.png) | Increases EP by **1098** | Reduce skill cooldown time by **18** |
 
 ### Crafting Success Rate
 | Armor Set | Success Rate | Failure Rate | Failure Reward |
 | - | - | - | - |
-| ![](../_images/jarmor150.png) | **80%**  | **20%** | ![](../_images/itemfail3.png) |
-| ![](../_images/parmor150.png) | **80%**  | **20%** | ![](../_images/itemfail3.png) |
-| ![](../_images/sarmor150.png) | **80%**  | **20%** | ![](../_images/itemfail3.png) |
+| ![](../_images/jarmor150.png) | **80%**  | **20%** | ![](../_images/itemfail4.png) |
+| ![](../_images/parmor150.png) | **80%**  | **20%** | ![](../_images/itemfail4.png) |
+| ![](../_images/sarmor150.png) | **80%**  | **20%** | ![](../_images/itemfail4.png) |
 
 **Note:** If you get fail, you get the piece what you are crafting, but as type normal (not legendary) and the item of the table.
 
