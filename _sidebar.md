@@ -1,8 +1,11 @@
   - [Introduction](README.md)
 
-  - Getting Started
-    - [Races & Classes](getting-started/races-and-classes.md)
-    - [Time Leap Quests (TLQs)](getting-started/tlqs.md)
+  - Character
+    - [Races & Classes](character/races-and-classes.md)
+    - [Dogi Attributes](character/dogi-attributes.md)
+
+  - Quests
+    - [Time Leap Quests (TLQs)](quests/tlqs.md)
 
   - Events
     - [BOSS](events/boss.md)
@@ -18,3 +21,10 @@
 
   - BIDs
     - [BID 4 - Kraken](bids/bid4.md)
+
+  ---
+
+  - Community
+    - Dragon Ball Online Galaxy
+      - Events
+        - [BOSS](community/dbogx/events/boss.md)
