@@ -12,3 +12,5 @@
 [GitHub](https://github.com/riagoncalves/dbo-guide)
 [Explore](#dragon-ball-online-guide)
 
+![](_images/background.jpg)
+
