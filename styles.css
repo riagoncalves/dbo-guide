@@ -1,5 +1,7 @@
 .markdown-section iframe {
-  min-width: auto !important;
-  width: 560px;
-  height: 315px;
+  display: block;
+  width: 100%;
+  max-width: 560px;
+  height: auto;
+  aspect-ratio: 16 / 9;
 }
