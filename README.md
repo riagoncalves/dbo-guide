@@ -2,30 +2,36 @@
 
 ![logo](_images/website/logo.png)
 
-> Your ultimate open-source guide for **Dragon Ball Online**. Contribute, explore, and master the game with the community!
+> An open-source player's guide to **Dragon Ball Online**, written by the community.
 
-## Introduction
+Dragon Ball Online is set on Earth in Age 1000, 216 years after Goku left to train Uub. You play a Human, Namekian or Majin who joins Time Patrol Trunks against the Time Breakers, travelling through the history of Dragon Ball to keep it intact.
 
-Welcome to the **Dragon Ball Online Guide**, a comprehensive resource crafted by the community, for the community. Whether you're a new adventurer or a seasoned player, this guide is designed to help you navigate every aspect of **Dragon Ball Online**. From detailed equipment and crafting guides to strategies for conquering the toughest bosses, you'll find everything you need right here.
+This guide collects what players need in one place: how the systems work, where to go at each level, and what the end-game dungeons drop.
 
-### Why This Guide?
+## Where to Start
 
-- 🛡 **Comprehensive Content:** Detailed walkthroughs, crafting costs, and equipment bonuses.
-- 💡 **Community-Centric:** Open source and built collaboratively by passionate players.
-- 🎨 **Customizable Design:** Designed for flexibility with multiple themes and configurations.
-- 📜 **Always Up-to-Date:** Dynamic content that evolves with community contributions.
+| If you are... | Read |
+| - | - |
+| New to the game | [Beginner Basics](getting-started/basics.md), then [Races & Classes](character/races-and-classes.md) |
+| Around level 30 | [Adult & Master Class](character/adult-and-master-class.md) and [Flight Quests](quests/flight.md) |
+| Hunting Dragon Balls | [Dragon Balls](dragon-balls/overview.md) |
+| Gearing up | [Item Basics](items/basics.md), [Upgrading](items/upgrading.md) and [Battle Attributes](character/attributes.md) |
+| Running dungeons | [TMQs](quests/tmqs.md), [Ultimate Dungeons](dungeons/ultimate-dungeons.md), the CCBD and BID pages in the sidebar |
+| Into PvP | [Ranked Battles & Budokai](pvp/budokai.md) |
 
-### Features
+## What's Inside
 
-- **Dynamic Floor Guides:** Navigate CCBD floors with expert tips and tactics.
-- **Equipment Insights:** Understand crafting requirements and bonus stats.
-- **Boss Strategies:** Plan your approach with detailed boss attribute breakdowns.
-- **Open Source:** Contribute your knowledge and help shape the guide.
+- **Getting Started** – controls, quests, level milestones and how to travel the world
+- **Character** – races, classes, stats, skills, RP, HTBs, transformations and attributes
+- **Quests** – Time Leap Quests, Time Machine Quests and the flight quest chain
+- **Dragon Balls** – quest balls, the hunt, Shenron's wishes and the scramble
+- **Items** – rarity, upgrading, the Scouter and crafting
+- **Dungeons** – Ultimate Dungeons, the CCBD and the BID bosses with their drops
+- **PvP & Community** – Budokai, parties, mail, guilds and dojos
+- **Events** – the BOSS event and its titles
 
-### How to Get Started
+## Contributing
 
-1. Explore the guide: [Open the Documentation](#dragon-ball-online-guide)
-2. Contribute: [Contribute on GitHub](https://github.com/riagoncalves/dbo-guide)
-3. Join the community: Share your feedback, suggestions, and insights!
+The guide is open source and unfinished. Some pages are thin, and a few values still need checking by people who remember the game.
 
-
+If you spot a mistake or can fill a gap, open an issue or a pull request on [GitHub](https://github.com/riagoncalves/dbo-guide).
