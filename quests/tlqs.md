@@ -1,6 +1,16 @@
 # Time Leap Quests (TLQs)
 ---
 
+Time Leap Quests are solo story missions. You enter a time rift near your race's starting area, meet the heroes of the past and learn one essential skill from each mission.
+
+## Overview
+
+| TLQ | Setting | Level | Skill learned | Human rift | Namekian rift | Majin rift |
+| - | - | - | - | - | - | - |
+| 1 | Mount Paozu (Age 737) | 4+ | ![](../_images/skills/power-up.png) Power Up | Kokkara Village area | Snail Village area | Bay Village area |
+| 2 | Fry-Pan Mountain (Age 749) | 9+ | ![](../_images/skills/guard.png) Guard | Yongasan area | Cotton Field area | Scissors Rock area |
+| 3 | 23rd Tenkaichi Budokai (Age 756) | 14+ | ![](../_images/skills/dash.png) Dash | Yahhoi Oil Field area | Porunga Rock area | Lost Waterway area |
+
 ## Locations
 
 ### Humans
@@ -39,7 +49,7 @@ Congratulations, you learned how to defend.
 <iframe src="https://www.youtube.com/embed/TqW__6Szw54?si=EnuSb4Vmb3SYBIF-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-### TLQ3
+## TLQ3
 ### Description
 On this final TLQ, you will appear at the time of World Martial Arts Tournament, where Goku fought Piccolo. You have to help find Goku for Chichi, but before you may struggle with''2''pickpockets, nothing too difficult. Defeat them and go talk to some people (should be marked on the map.) to see if they know Goku.
 
